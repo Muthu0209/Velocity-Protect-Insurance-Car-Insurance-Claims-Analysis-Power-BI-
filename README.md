@@ -192,7 +192,7 @@ Power BI Desktop · DAX · Power Query · Key Influencers · Decomposition Tree 
 3. If prompted, point the data source to the local `Dataset.xlsx` (Home → Transform data → Data source settings).
 4. Use the page tabs, slicers and Tables/Graphs buttons to explore.
 
-## Author
+## Practiced by
 
 **Muthulakshmi Viswanathan** – Data Analyst, Toronto, Canada
 
