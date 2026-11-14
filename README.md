@@ -195,8 +195,5 @@ Power BI Desktop · DAX · Power Query · Key Influencers · Decomposition Tree 
 ## Author
 
 **Muthulakshmi Viswanathan** – Data Analyst, Toronto, Canada
-[LinkedIn](#) · [Portfolio](#)
 
-## Notes
 
-The dataset and case study are from a Great Learning mentored learning session and are used for for practice and learning purposes.
